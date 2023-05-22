@@ -746,6 +746,18 @@ video {
   margin-top: 2px;
 }
 
+.ml-\[80px\]{
+  margin-left: 80px;
+}
+
+.ml-\[85px\]{
+  margin-left: 85px;
+}
+
+.ml-\[70px\]{
+  margin-left: 70px;
+}
+
 .box-border{
   box-sizing: border-box;
 }

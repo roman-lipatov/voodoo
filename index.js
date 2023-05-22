@@ -25,7 +25,7 @@
           </div>
         </div>
         <div id="adding" class="bg-black rounded text-white font-grotesk font-bold text-sm">
-          <div class="py-[20px] ml-[90px] ">
+          <div class="py-[20px] ml-[70px] ">
             PICK-UP IN <span class="underline-offset-4">2200</span>
           </div>
         </div>
